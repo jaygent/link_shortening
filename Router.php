@@ -1,5 +1,5 @@
 <?php
-require_once (__DIR__.'\Db.php');
+require_once ('Db.php');
 class Router {
 
     protected $link;
